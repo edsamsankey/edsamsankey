@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @edsamsankey
-- 👀 I’m interested in WEB DEVELOPMENT,ROBOTICS AND FINANCE 
-- 🌱 I’m currently learning WEB DEV FROM UDEMY 
+- 👀 I’m interested in ARTIFICIAL INTELLIGENCE AND MACHINE LEARNING,ROBOTICS AND FINANCE 
+- 🌱 I’m currently learning MACHINE LEARNING FROM UDEMY 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me through my mail : rahulsankey285@gmail.com
 - 😄 Pronouns: ...
