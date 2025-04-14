@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @edsamsankey
-- 👀 I’m interested in ARTIFICIAL INTELLIGENCE AND MACHINE LEARNING,ROBOTICS AND FINANCE 
-- 🌱 I’m currently learning MACHINE LEARNING AND ROBOTICS FROM UDEMY 
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m @edsamsankey(rahul)
+- 👀 I’m interested in ARTIFICIAL INTELLIGENCE AND MACHINE LEARNING,ROBOTICS
+- 🌱 I’m working on designing robots on fusion360
+- 💞️ I’m looking to collaborate with robotics nerds 
 - 📫 How to reach me through my mail : rahulsankey285@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: Why did the algorithm cross the road?
