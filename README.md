@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @edsamsankey(rahul)
+- 👋 Hi, I’m (rahul)
 - 📫 How to reach me through my mail : rahulsankey285@gmail.com
 
 
